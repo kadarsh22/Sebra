@@ -5,7 +5,7 @@
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-blue?style=flat-square)](https://openreview.net/pdf?id=MyVC4X5B2X)
 [![Conference](https://img.shields.io/badge/ICLR-2025-blue?style=flat-square)](https://kadarsh22.github.io/sebra/)
-[![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFCC33?style=flat-square&logo=WeightsAndBiases&logoColor=black)](https://wandb.ai/)
+[![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFCC33?style=flat-square&logo=WeightsAndBiases&logoColor=black)](https://wandb.ai/kadarsh22/Sebra)
 
 
 </div>
