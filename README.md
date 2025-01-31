@@ -3,8 +3,8 @@
  
 # Sebra: Debiasing through <u>Se</u>lf-Guided <u>B</u>ias <u>Ra</u>nking (ICLR 2025)
 
-[![Paper](https://img.shields.io/badge/arXiv-Paper-blue?style=flat-square)](https://openreview.net/pdf?id=MyVC4X5B2X)
-[![Conference](https://img.shields.io/badge/ICLR-2025-blue?style=flat-square)](https://kadarsh22.github.io/sebra/)
+[![Paper](https://img.shields.io/badge/arXiv-Paper-blue?style=flat-square)](http://arxiv.org/abs/2501.18277)
+[![Project Page](https://img.shields.io/badge/projectpage-8A2BE2)](https://kadarsh22.github.io/sebra_iclr25/)
 [![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFCC33?style=flat-square&logo=WeightsAndBiases&logoColor=black)](https://wandb.ai/kadarsh22/Sebra)
 
 
@@ -108,10 +108,18 @@ This code is based on the open-source implementations from the following project
 If you find this code or idea useful, please cite our work: 
 
 ```bib
+@misc{kappiyath2025sebradebiasingselfguidedbias,
+      title={Sebra: Debiasing Through Self-Guided Bias Ranking}, 
+      author={Adarsh Kappiyath and Abhra Chaudhuri and Ajay Jaiswal and Ziquan Liu and Yunpeng Li and Xiatian Zhu and Lu Yin},
+      year={2025},
+      eprint={2501.18277},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2501.18277}, 
+}
 
 ```
 
----
 
 ## License
 
