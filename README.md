@@ -53,7 +53,7 @@ You can generate or download the necessary datasets as described below:
 
 - **CelebA**: Follow the instructions from [Echoes](https://github.com/isruihu/Echoes) to set up generate the dataset.
 - **UrbanCars**: Follow the instructions from [Whack-A-mole-Dilemma](https://github.com/facebookresearch/Whac-A-Mole) to set up generate the dataset.
-- **BAR**: Download the dataset from [BAR](https://github.com/alinlab/BAR).
+- **BAR**: Download the dataset from [BAR](https://github.com/simpleshinobu/IRMCon).
 - **ImageNet-1K** : Download the dataset from [ImageNet-1K](https://image-net.org/download.php)
 
 Once the datasets are ready, place them in a directory that is accessible by your project.
