@@ -108,14 +108,13 @@ This code is based on the open-source implementations from the following project
 If you find this code or idea useful, please cite our work: 
 
 ```bib
-@misc{kappiyath2025sebradebiasingselfguidedbias,
-      title={Sebra: Debiasing Through Self-Guided Bias Ranking}, 
-      author={Adarsh Kappiyath and Abhra Chaudhuri and Ajay Jaiswal and Ziquan Liu and Yunpeng Li and Xiatian Zhu and Lu Yin},
-      year={2025},
-      eprint={2501.18277},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2501.18277}, 
+@inproceedings{
+kappiyath2025sebra,
+title={{SEBRA} : Debiasing through Self-Guided Bias Ranking},
+author={Adarsh Kappiyath and Abhra Chaudhuri and AJAY KUMAR JAISWAL and Ziquan Liu and Yunpeng Li and Xiatian Zhu and Lu Yin},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=MyVC4X5B2X}
 }
 
 ```
